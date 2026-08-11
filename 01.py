@@ -1,1 +1,2 @@
 cost fun
+value
