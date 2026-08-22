@@ -1,7 +1,7 @@
-cost fun
-value
-edit review
-fun
+##cost fun
+#value
+#edit review
+#fun
 import socket
 import threading
 
